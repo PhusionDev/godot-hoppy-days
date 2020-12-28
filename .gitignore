@@ -1,0 +1,12 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+git_api*
+.DS_Store
+*.dmg
+export_presets.cfg
